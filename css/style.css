@@ -129,7 +129,7 @@ header {
 }
 
 .header-main{
-    background-image: url(img/slider-fon.jpg);
+    background-image: url(../img/slider-fon.jpg);
     width: 100%;
     height: 495px;
     position: relative;
@@ -183,7 +183,7 @@ header {
 }
 
 .slider {
-    background-image: url(img/slider-fon.jpg);
+    background-image: url(../img/slider-fon.jpg);
     background-repeat: repeat;
     background-size: cover;
     background-position: center;
