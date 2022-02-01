@@ -183,7 +183,7 @@ header {
 }
 
 .slider {
-    background-image: url(/img/slider-fon.jpg);
+    background-image: url(img/slider-fon.jpg);
     background-repeat: repeat;
     background-size: cover;
     background-position: center;
